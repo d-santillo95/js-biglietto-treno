@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+main{
+    padding: 100px 0;
+    text-align: center;
+    font-weight: 800;
+    background-image: url(https://www.omio.it/gcs-proxy/static_content_repo/web/content/rest/hero/mode_page-train-dw.jpg);
+    background-size: cover;
+}

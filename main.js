@@ -8,4 +8,4 @@ if (eta < 18) {
 }else if (eta > 65) {
     biglietto = biglietto - (biglietto / 5) * 2;
 }
-console.log(biglietto);
+document.getElementById('prezzo').innerHTML = biglietto + '€'
